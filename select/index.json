@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Aitai",
+  "base_artist": "加藤ミリヤ",
+  "createdAt": "2026-02-19T12:13:01.707475Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aitai-tai",
+      "artist": "Red Velvet",
+      "has_synced": false,
+      "path": "select/01_Aitai-tai_Red_Velvet.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aitai-tai",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/02_Aitai-tai_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aitai",
+      "artist": "Scandal",
+      "has_synced": true,
+      "path": "select/03_Aitai_Scandal.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mouichido Kimi ni Aitai",
+      "artist": "Shimokawa Mikuni",
+      "has_synced": true,
+      "path": "select/04_Mouichido_Kimi_ni_Aitai_Shimokawa_Mikuni.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aitai‐tai",
+      "artist": "Red Velvet",
+      "has_synced": true,
+      "path": "select/05_Aitai‐tai_Red_Velvet.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Aitai",
+      "artist": "Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/06_Aitai_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Aitai - Single",
+      "artist": "Lilas Ikuta",
+      "has_synced": true,
+      "path": "select/07_Aitai_-_Single_Lilas_Ikuta.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Aitai Aenai",
+      "artist": "BURNOUT SYNDROMES",
+      "has_synced": true,
+      "path": "select/08_Aitai_Aenai_BURNOUT_SYNDROMES.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Aitai-tai",
+      "artist": "Red Velvet (레드벨벳)",
+      "has_synced": true,
+      "path": "select/09_Aitai-tai_Red_Velvet_(레드벨벳).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Aitai",
+      "artist": "Ikuta Lilas",
+      "has_synced": true,
+      "path": "select/10_Aitai_Ikuta_Lilas.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Aitai",
+      "artist": "Mosawo",
+      "has_synced": true,
+      "path": "select/11_Aitai_Mosawo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Aitai Yuku",
+      "artist": "Little Glee Monster",
+      "has_synced": true,
+      "path": "select/12_Aitai_Yuku_Little_Glee_Monster.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hayaku Aitai",
+      "artist": "Dream Ami",
+      "has_synced": true,
+      "path": "select/13_Hayaku_Aitai_Dream_Ami.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Aitai",
+      "artist": "加藤 ミリヤ",
+      "has_synced": false,
+      "path": "select/pl_01_Aitai_加藤_ミリヤ.txt"
+    }
+  ]
+}
